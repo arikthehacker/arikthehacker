@@ -37,7 +37,7 @@ Ariella Marchuk <br>
 <td width="33%" valign="top">
 <a href="https://github.com/arikthehacker/clique"></a>
 <b><a href="https://github.com/arikthehacker/clique">clique</a></b><br>
-<sub>an app for private friend circle coordination that has cool social features!</sub>
+<sub>a private space for one friend group: group chat, shared memories, a shared calendar, and lightweight planning. 2nd place at the UP pilot venture challenge.</sub>
 </td>
 </tr>
 </table>
